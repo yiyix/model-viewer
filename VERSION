@@ -1,0 +1,11 @@
+commit 66c9bae716a9d4e4dab39926ba05f63c999dc532
+Author: Emmett Lalish <elalish@gmail.com>
+Date:   Fri Dec 13 10:49:53 2019 -0800
+
+    Zoom canvas properly (#867)
+    
+    * fixed canvas scaling
+    
+    * cleanup
+    
+    * renamed canvas and context to 3D as appropriate
